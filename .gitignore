@@ -1,0 +1,38 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build outputs
+Debug/
+Release/
+build/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.out
+*.a
+*.la
+*.lo
+*.lib
+*.exp
+
+# ADS / Tasking IDE
+.ads/
+*.pre-build
+*.post-build
+
+# STM32Cube
+*.ioc.bak
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Metadata
+.metadata/

@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"d:/smart car/workspace_6_8/lq_6_7\" log --oneline -5)",
+      "Bash(rm -rf \"d:/smart car/workspace_6_8/lq_6_7/.git\" && rm -f \"d:/smart car/workspace_6_8/lq_6_7/.gitignore\" && echo \"Deleted successfully\" && find \"d:/smart car/workspace_6_8\" \\\\\\( -name \".git\" -type d -o -name \".gitignore\" \\\\\\) 2>/dev/null)"
+    ],
+    "additionalDirectories": [
+      "d:\\smart car\\workspace_6_8\\lq_6_7\\.git"
+    ]
+  }
+}
